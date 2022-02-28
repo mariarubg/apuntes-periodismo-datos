@@ -23,4 +23,5 @@ HTML significa *Hyper Text Markup Language*, lenguaje de marcas de hypertexto
 - *American Slavery As It Is: Testimony, A Thousand Witnesses*. Tratado abolicionista publicado en NY por la Sociedad Americana Antiesclavista. Sus tres autores, dos mujeres y un hombre, buscaron datos para apoyar su causa. Emplearon la herramienta del anuncio *Se Busca* de todos los periódicos, donde se daban datos de los esclavos para que pudieran ser reconocidos y volver a su plantación. 
 - Philip Meyer: Comienza su trayectoria periodística en el Miami Herald. Precedente de Meyer al periodismo de datos: queja del alto coste de los seguros escolares contra incendios y huracanes. Ese coste lo establecía un consejo de funcionarios, cruza los nombres del consejo con personas de empresas y da como resultado que el 65% de la financiación de las campañas electorales procedían de empresarios de seguros. Detroits Riots (1967, largo y cálido verano).
 - Periodismo de Precisión. 
-**Término Periodista de Datos**
+## Término Periodista de Datos
+
